@@ -1,0 +1,20 @@
+.form {
+    width: 400px;
+}
+.form > .form__field {
+    margin-bottom:20px;
+}
+
+.form__field > .form__input {
+    border:1px solid black;
+    border-radius: 5px;
+    width: 200px;
+    height: 40px;
+}
+
+.form__field > .form__button {
+    padding: 12px;
+    max-width: 150px;
+    width: 100%;
+    margin-left: 10px;
+}
